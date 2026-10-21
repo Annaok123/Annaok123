@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1500&color=818CFC&center=true&vCenter=true&repeat=true&width=600&height=45&lines=🚀+10年+互联网项目管理+·+AI影像出海实践者;🤖+用AI提效PMO+·+让复杂项目准时交付;🌏+美国+&+巴西市场+·+GDPR/LGPD合规实战" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1500&color=818CFC&center=true&vCenter=true&repeat=true&width=600&height=45&lines=🚀+10年+互联网项目管理+·+AI影像出海实践者;🤖+用AI提效PMO+·+让复杂项目准时交付;📊+战略管理+×+商业分析+×+跨文化协作" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -15,7 +15,7 @@ name: Anna Zhou
 identity: 高级项目经理 / AI出海交付专家
 career: 产品经理 → Scrum Master → PMO高级项目经理 → AI出海负责人
 experience: 10+ years in internet product & project management
-focus: AI影像产品出海 · 研发效能 · PMO治理
+focus: AI影像产品出海 · 研发效能 · PMO治理 · 战略落地
 markets: 🇨🇳 🇺🇸 🇧🇷
 certifications: PMP · ACP · NPDP · 软考高项（信息系统项目管理师）
 education: 中山大学 · 数字经济硕士在读
@@ -73,18 +73,24 @@ motto: 让复杂项目准时交付，让团队效率持续提升
 
 ### 🎯 Skill Tree
 
-*白天交付项目，晚上玩 AI —— 持续进化中*
+*从战略到执行，从交付到分析 —— 完整的项目管理能力图谱*
 
 <br/>
 
-| 领域 | 熟练度 | 进度 | 常用工具 |
+| 领域 | 熟练度 | 进度 | 常用工具 / 方法论 |
 |:---:|:---:|:---|:---|
 | 🚀 AI 项目交付 | ⭐⭐⭐⭐⭐ | 🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪 `100%` | Scrum · SAFe · DevOps |
 | 📊 研发效能治理 | ⭐⭐⭐⭐⭐ | 🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪 `100%` | Jira · DORA · AI诊断 |
+| 🎯 战略管理 | ⭐⭐⭐⭐ | 🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜ `80%` | OKR · 战略解码 · 复盘 |
+| 📈 商业分析 | ⭐⭐⭐⭐ | 🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜ `80%` | 需求分析 · ROI · 数据驱动 |
 | 🌏 出海合规 | ⭐⭐⭐⭐ | 🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜ `80%` | GDPR · LGPD |
 | 🤖 AI 辅助编程 | ⭐⭐⭐⭐ | 🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜ `80%` | Claude Code · Codex · Cursor |
-| 📈 数据分析 | ⭐⭐⭐ | 🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜ `60%` | Python · SQL · Pandas |
+| 💰 预算与成本管理 | ⭐⭐⭐⭐ | 🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜ `80%` | 立项 · 预算编制 · 成本管控 |
+| ⚠️ 风险管理 | ⭐⭐⭐⭐ | 🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜ `80%` | 风险登记册 · 前置识别 · 应急预案 |
+| 🧭 产品规划 | ⭐⭐⭐ | 🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜ `60%` | 路线图 · MVP · 优先级排序 |
+| 📉 数据分析 | ⭐⭐⭐ | 🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜ `60%` | Python · SQL · Pandas |
 | 🤝 智能体搭建 | ⭐⭐⭐ | 🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜ `60%` | Coze · Dify · N8n |
+| 🌐 跨文化沟通 | ⭐⭐⭐⭐⭐ | 🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪 `100%` | 商务英语 · 跨时区协作 · 海外团队 |
 
 </div>
 
@@ -119,16 +125,36 @@ motto: 让复杂项目准时交付，让团队效率持续提升
 [![飞书](https://img.shields.io/badge/飞书-3370FF?style=for-the-badge&logo=lark&logoColor=white)](https://github.com/Annaok123)
 &nbsp;
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://github.com/Annaok123)
+&nbsp;
+[![Monday](https://img.shields.io/badge/Monday-FF153C?style=for-the-badge&logo=monday&logoColor=white)](https://github.com/Annaok123)
 
 <br/>
 
-**📊 数据与分析**
+**📊 数据与商业分析**
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Annaok123)
 &nbsp;
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/Annaok123)
 &nbsp;
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/Annaok123)
+&nbsp;
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/Annaok123)
+&nbsp;
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/Annaok123)
+
+<br/>
+
+**🧠 战略与方法论**
+
+[![OKR](https://img.shields.io/badge/OKR-7c3aed?style=for-the-badge)](https://github.com/Annaok123)
+&nbsp;
+[![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge)](https://github.com/Annaok123)
+&nbsp;
+[![SAFe](https://img.shields.io/badge/SAFe-0095D5?style=for-the-badge)](https://github.com/Annaok123)
+&nbsp;
+[![DevOps](https://img.shields.io/badge/DevOps-0ADD06?style=for-the-badge&logo=devops&logoColor=white)](https://github.com/Annaok123)
+&nbsp;
+[![DORA](https://img.shields.io/badge/DORA-FF6B6B?style=for-the-badge)](https://github.com/Annaok123)
 
 <br/>
 
@@ -161,9 +187,9 @@ motto: 让复杂项目准时交付，让团队效率持续提升
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Annaok123/Annaok123/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Annaok123/Annaok123/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Annaok123/Annaok123/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Annaok123/Anna-Profile/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Annaok123/Anna-Profile/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Annaok123/Anna-Profile/output/github-snake-dark.svg" />
 </picture>
 
 </div>
@@ -179,10 +205,12 @@ motto: 让复杂项目准时交付，让团队效率持续提升
 > *"好的项目管理，不是让每个人都忙碌，而是让每个人都清楚自己在为什么而战。"*
 >
 > *"风险不是报告里的数字，是在它变成问题之前就去解决它。"*
+>
+> *"战略决定做正确的事，执行决定把事做正确。"*
 
 <br/>
 
-`🚀 AI出海交付  ×  📊 PMO治理  =  🌏 全球化产品落地`
+`🚀 AI出海交付  ×  📊 战略与商业分析  =  🌏 全球化产品落地`
 
 <br/>
 
