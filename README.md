@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1500&color=818CFC&center=true&vCenter=true&repeat=true&width=600&height=45&lines=🚀+10年+互联网项目管理+·+AI影像出海实践者;🤖+用AI提效PMO+·+让复杂项目准时交付;📊+战略管理+×+商业分析+×+跨文化协作" alt="Typing SVG" />
+  <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
 </div>
 
 <br/>
