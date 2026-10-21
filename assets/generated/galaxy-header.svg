@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 400" width="850" height="400">
+  <defs>
+    <radialGradient id="bgGrad" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="#13131f"/>
+      <stop offset="100%" stop-color="#090910"/>
+    </radialGradient>
+    <radialGradient id="centerGrad" cx="40%" cy="40%">
+      <stop offset="0%" stop-color="#a78bfa"/>
+      <stop offset="60%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#4c1d95"/>
+    </radialGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="850" height="400" fill="url(#bgGrad)" rx="12"/>
+
+  <g fill="#ffffff" opacity="0.4">
+    <circle cx="50" cy="40" r="1.5"/><circle cx="120" cy="80" r="1"/>
+    <circle cx="200" cy="30" r="1.2"/><circle cx="300" cy="60" r="1"/>
+    <circle cx="400" cy="25" r="1.5"/><circle cx="500" cy="70" r="1"/>
+    <circle cx="600" cy="35" r="1.2"/><circle cx="700" cy="55" r="1"/>
+    <circle cx="800" cy="45" r="1.5"/><circle cx="80" cy="200" r="1"/>
+    <circle cx="780" cy="180" r="1.2"/><circle cx="150" cy="350" r="1.5"/>
+    <circle cx="700" cy="360" r="1"/><circle cx="350" cy="370" r="1.2"/>
+    <circle cx="550" cy="380" r="1"/><circle cx="30" cy="300" r="1"/>
+    <circle cx="820" cy="280" r="1.5"/>
+  </g>
+
+  <text x="425" y="60" text-anchor="middle" font-family="Georgia, serif" font-size="28" font-weight="700" fill="#f0ede8">Anna Zhou</text>
+  <text x="425" y="85" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="13" fill="#a78bfa">AI出海交付专家 | PMO治理 | 数字经济硕士</text>
+
+  <ellipse cx="425" cy="210" rx="300" ry="90" fill="none" stroke="#3b82f6" stroke-width="0.8" opacity="0.5"/>
+  <ellipse cx="425" cy="210" rx="230" ry="70" fill="none" stroke="#7c3aed" stroke-width="0.8" opacity="0.6"/>
+  <ellipse cx="425" cy="210" rx="160" ry="50" fill="none" stroke="#f59e0b" stroke-width="0.8" opacity="0.5"/>
+
+  <circle cx="425" cy="210" r="28" fill="url(#centerGrad)" filter="url(#glow)"/>
+  <text x="425" y="218" text-anchor="middle" font-family="Georgia, serif" font-size="20" font-weight="700" fill="#ffffff">A</text>
+
+  <g font-family="'JetBrains Mono', monospace" font-size="11">
+    <circle cx="425" cy="120" r="5" fill="#22d3ee" filter="url(#glow)"/>
+    <text x="425" y="110" text-anchor="middle" fill="#22d3ee">GDPR合规</text>
+
+    <circle cx="140" cy="190" r="5" fill="#22d3ee" filter="url(#glow)"/>
+    <text x="140" y="180" text-anchor="middle" fill="#22d3ee">Claude Code</text>
+
+    <circle cx="710" cy="200" r="5" fill="#22d3ee" filter="url(#glow)"/>
+    <text x="710" y="190" text-anchor="middle" fill="#22d3ee">研发效能</text>
+  </g>
+
+  <g font-family="'JetBrains Mono', monospace" font-size="11">
+    <circle cx="580" cy="165" r="5" fill="#a78bfa" filter="url(#glow)"/>
+    <text x="580" y="155" text-anchor="middle" fill="#a78bfa">战略管理</text>
+
+    <circle cx="260" cy="240" r="5" fill="#a78bfa" filter="url(#glow)"/>
+    <text x="260" y="260" text-anchor="middle" fill="#a78bfa">商业分析</text>
+
+    <circle cx="600" cy="260" r="5" fill="#a78bfa" filter="url(#glow)"/>
+    <text x="600" y="280" text-anchor="middle" fill="#a78bfa">跨文化协作</text>
+  </g>
+
+  <g font-family="'JetBrains Mono', monospace" font-size="11">
+    <circle cx="510" cy="185" r="5" fill="#f59e0b" filter="url(#glow)"/>
+    <text x="530" y="180" fill="#f59e0b">Scrum</text>
+
+    <circle cx="425" cy="260" r="5" fill="#f59e0b" filter="url(#glow)"/>
+    <text x="425" y="285" text-anchor="middle" fill="#f59e0b">PMP·ACP·NPDP</text>
+
+    <circle cx="200" cy="290" r="5" fill="#f59e0b" filter="url(#glow)"/>
+    <text x="200" y="310" text-anchor="middle" fill="#f59e0b">项目交付</text>
+
+    <circle cx="680" cy="290" r="5" fill="#f59e0b" filter="url(#glow)"/>
+    <text x="680" y="310" text-anchor="middle" fill="#f59e0b">Python·SQL</text>
+  </g>
+
+  <text x="425" y="370" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="13" fill="#a78bfa">"让复杂项目准时交付，让团队效率持续提升。"</text>
+</svg>
