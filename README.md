@@ -187,9 +187,9 @@ motto: 让复杂项目准时交付，让团队效率持续提升
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Annaok123/Anna-Profile/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Annaok123/Anna-Profile/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Annaok123/Anna-Profile/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Annaok123/Annaok123/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Annaok123/Annaok123/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Annaok123/Annaok123/output/github-snake-dark.svg" />
 </picture>
 
 </div>
